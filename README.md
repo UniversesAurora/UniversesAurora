@@ -1,1 +1,7 @@
-# 💌 我是浮枕
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=E6E6FA&labelColor=A020F0)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAByklEQVRIibWUPWsUURSGn7OsaNIYG5UgaOo0gp2KNgGDioWVaGujFv4L7QT/gWCjRQoLEQwpNKuFYBrBQgsLAyEgxDR+kM08FjPjjuPsnd0V3/Lc9573PR/3woRQr6jnJ73flvyqmqnr/yP5vPrNHDfa+N3a5b3AdILfAR4AU8AS8Eg9UON8j4gfdVez6rK647+jr75U5wCiEFgCLreVW8FXwCFnU8A+YCUiFsoKNsdw2EspqzMF72c1uDWGwKW28kpim8BJ9VQttqHWF6Onrk4iUM4nq8TuNbjNqvy6QCdRaTTEVhpiWYL/5zuo4Zzar1zMgFcNvMdANyKyhrMcQ1qUwo56K5FvpBal0AVOj0IcJvAceAHsJu7WN+eEutjkpI5NYDEiVA+Rv/CzwBxwDDhY8LbNv+szwEVgvhA6+lfGhhncVY802VbfD5nLunpH7VRnUO76FjBTy7ULvCZv11vgQ1HdKnAc+AysAe+AZaBXbtLv5BFRCmwAh5scJ3ANeNYQ3w98Iv+2p8uyH465pqPgCQyGfJt8oxaAPS3Og0E7txm85BJ98jbeHK8hFahvCpfXJ07SInChEPjYxk39RUMREU/V+8CXNu4vrTSg85cDgmEAAAAASUVORK5CYII=&color=E6E6FA&labelColor=A020F0)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=E6E6FA&labelColor=A020F0)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows-95&logoColor=white&color=E6E6FA&labelColor=A020F0)
+
+![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=universesaurora&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universesaurora&layout=compact&theme=buefy)
