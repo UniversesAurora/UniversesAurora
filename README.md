@@ -5,5 +5,3 @@
 
 ![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=universesaurora&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universesaurora&layout=compact&theme=buefy)
-
-![NexTSteP](NexTSteP.svg)
