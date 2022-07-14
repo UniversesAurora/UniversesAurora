@@ -21,7 +21,7 @@
 <br />
 
 编辑器：
-[<img  alt="VIM" title="VIM" width="60px" src="https://cdn.worldvectorlogo.com/logos/vim.svg" />][vim]
+[<img alt="VIM" title="VIM" width="60px" src="https://cdn.worldvectorlogo.com/logos/vim.svg" />][vim]
 [<img alt="Kate" title="Kate" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Sc-apps-kate-editor.svg" />][kate]
 [<img alt="VSCode" title="Visual Studio Code" width="60px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />][vscode]
 
