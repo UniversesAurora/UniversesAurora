@@ -13,9 +13,13 @@
 <img align="left" alt="macOS" title="macOS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg" />
 <img align="left" alt="Windows" title="Windows" width="60px" src="https://cdn.worldvectorlogo.com/logos/windows-98-whistler-logo.svg" />
 
+<br />
+
+编辑器：
 <img align="left" alt="VIM" title="VIM" width="60px" src="https://cdn.worldvectorlogo.com/logos/vim.svg" />
 <img align="left" alt="Kate" title="Kate" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Sc-apps-kate-editor.svg" />
 <img align="left" alt="VSCode" title="Visual Studio Code" width="60px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
 
+<br />
 
-<p align="left">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universesaurora&layout=compact&theme=buefy)</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universesaurora&layout=compact&theme=buefy)
