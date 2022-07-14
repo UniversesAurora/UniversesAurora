@@ -18,4 +18,4 @@
 <img align="left" alt="VSCode" title="Visual Studio Code" width="60px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universesaurora&layout=compact&theme=buefy)
+<p align="left">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universesaurora&layout=compact&theme=buefy)</p>
