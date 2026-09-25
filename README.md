@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/aurora.svg" alt="浮枕 · UniversesAurora 星海横幅" width="100%"></p>
+<p align="center"><img src="assets/aurora-v2.svg" alt="浮枕 · UniversesAurora 星海横幅" width="100%"></p>
 
 <h3 align="center">你好，我是浮枕。</h3>
 
