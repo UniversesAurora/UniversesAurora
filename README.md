@@ -2,14 +2,14 @@
 
 <h3 align="center">你好，我是浮枕。</h3>
 
-<p align="center">关注网络与系统软件，也写点自己用得上的小工具。</p>
+<p align="center">关注网络和系统方向，平时也写点小工具。</p>
 
 <p align="center"><a href="https://fusionphoenix.org">个人网站</a> · <a href="https://github.com/UniversesAurora?tab=repositories">项目列表</a> · <a href="https://twitter.com/universesaurora">X / Twitter</a></p>
 
 ### 最近在做
 
-- **RDMA / RoCE**：最近主要在研究相关技术，接触驱动和 `rdma-core`。
-- **开发工具**：平时会折腾 Linux、开发环境和自动化，也做一些自己用得上的小项目。
+- **RDMA / RoCE**：最近在看相关的驱动和 `rdma-core`。
+- **日常开发**：常用 Linux，也喜欢折腾开发环境和自动化工具。
 
 ### 写过的东西
 
