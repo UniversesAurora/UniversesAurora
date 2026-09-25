@@ -1,23 +1,21 @@
 <p align="center"><img src="assets/aurora.svg" alt="浮枕 · UniversesAurora 星海横幅" width="100%"></p>
 
-<h3 align="center">你好，我是浮枕。也可以叫我 Miguel。</h3>
+<h3 align="center">你好，我是浮枕。</h3>
 
-<p align="center">从网卡的数据路径，到每天顺手用的小工具，我喜欢把问题拆开、跑通，再留下能复现的记录。</p>
+<p align="center">关注网络与系统软件，也写点自己用得上的小工具。</p>
 
-<p align="center"><a href="https://universesaurora.top">个人网站</a> · <a href="https://github.com/UniversesAurora?tab=repositories">项目列表</a> · <a href="https://twitter.com/universesaurora">X / Twitter</a></p>
+<p align="center"><a href="https://fusionphoenix.org">个人网站</a> · <a href="https://github.com/UniversesAurora?tab=repositories">项目列表</a> · <a href="https://twitter.com/universesaurora">X / Twitter</a></p>
 
-### 目前在折腾
+### 最近在做
 
-- **RDMA / RoCE**：读驱动、`rdma-core` 和 provider 的实现；用 `perftest` 看带宽、时延，以及 QP、MTU、NUMA 带来的变化。
-- **Linux 与开发环境**：内核模块、clangd、WSL、虚拟机。遇到难复现的问题，就把步骤和边界条件写清楚。
-- **趁手的小工具**：输入法切换、浏览器体验、电子书整理。能少做一次重复操作，就值得写点代码。
+- **RDMA / RoCE**：最近主要在研究相关技术，接触驱动和 `rdma-core`。
+- **开发工具**：平时会折腾 Linux、开发环境和自动化，也做一些自己用得上的小项目。
 
 ### 写过的东西
 
 | 项目 | 做什么 |
 | --- | --- |
 | [KeyPersona](https://github.com/UniversesAurora/KeyPersona) | 在 Windows 按窗口记住并切换输入法。 |
-| [VBoxDBGDB](https://github.com/UniversesAurora/VBoxDBGDB) | 通过 GDB remote stub 调试 VirtualBox。 |
 | [yamibo-epub-scraper](https://github.com/UniversesAurora/yamibo-epub-scraper) | 把论坛小说整理成 EPUB。 |
 | [浮枕星海](https://github.com/UniversesAurora/universesaurora-blog) | 个人博客与笔记。 |
 

@@ -21,7 +21,7 @@
     <circle cx="476" cy="297" r="1.5"/><circle cx="312" cy="278" r="1.5"/><circle cx="98" cy="290" r="1.5"/>
   </g>
   <path d="M955 81v22m-11-11h22M1090 220v16m-8-8h16" stroke="#bdeff5" stroke-width="1.5" opacity=".8"/>
-  <rect x="44" y="42" width="278" height="31" rx="15" fill="#ffffff" fill-opacity=".09" stroke="#a89dff" stroke-opacity=".45"/>
+  <rect x="44" y="42" width="560" height="31" rx="15" fill="#ffffff" fill-opacity=".09" stroke="#a89dff" stroke-opacity=".45"/>
   <text x="62" y="63" fill="#b8eeed" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">SYSTEMS · NETWORKS · TOOLS</text>
   <text x="48" y="161" fill="#fff" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="72" font-weight="700">浮枕</text>
   <text x="50" y="217" fill="#e1d9ff" font-family="Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="3">UniversesAurora</text>
